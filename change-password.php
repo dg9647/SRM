@@ -62,7 +62,7 @@ if (Login::isLoggedIn()) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CollegeNetwork</title>
+    <title>SRM Connect</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
@@ -84,7 +84,7 @@ if (Login::isLoggedIn()) {
 	<div class="sidebar_menu">
 		<i class="fa fa-times"></i>
 		<center>
-			<a href="index.html"><h1 class="boxed_item">College<span class="logo_bold">Network</span></h1>
+			<a href="index.html"><h1 class="boxed_item">SRM<span class="logo_bold">Connect</span></h1>
 			</a>
 		</center>
 
