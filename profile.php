@@ -120,7 +120,7 @@ if (isset($_POST['searchbox'])) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>College Network</title>
+    <title>SRM CONNECT</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
     <link rel="stylesheet" href="assets/css/Footer-Dark.css">
@@ -135,7 +135,7 @@ if (isset($_POST['searchbox'])) {
     <header class="hidden-sm hidden-md hidden-lg">
         <div class="searchbox">
             <form action="profile.php?username=<?php echo $usrname;?>" method="post">
-                <h1 class="text-left">College Network</h1>
+                <h1 class="text-left">SRM Connect</h1>
                 <div class="searchbox"><i class="glyphicon glyphicon-search"></i>
                     <input class="form-control sbox" type="text">
                     <ul class="list-group autocomplete" style="position:absolute;width:100%; z-index: 100">
@@ -295,7 +295,7 @@ if (isset($_POST['searchbox'])) {
     <div class="footer-dark navbar-fixed-bottom">
         <footer>
             <div class="container">
-                <p class="copyright">College Network© 2017</p>
+                <p class="copyright">SRM Connect© 2022</p>
             </div>
         </footer>
     </div>
